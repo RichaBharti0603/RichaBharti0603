@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=RichaBharti0603&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 # 💫 About Me:
 🎀 Hi, I'm Richa! A curious coder, tech enthusiast, and full-time dreamer 🚀✨<br>💻 Passionate about tech – love building cool projects, from AI to Web3!<br>🎮 Hackathon junkie – You’ll probably find me coding my heart out at hackathons 💡🔥<br>🍫 Chocolate = Happiness – Bribe me with dark chocolate & we’re instantly besties 🍫😋<br>🌍 Tech for good – I believe in using tech to solve real-world problems 💜<br>🎨 Aesthetic lover – If it’s not cute & visually pleasing, I’ll redesign it 😆🌸<br>🎶 Music on, world off – Lo-fi beats & coding = my happy place 🎧💻<br>🤖 AI/ML newbie – Teaching machines to think (or at least trying to) 🧠🤖<br>💬 Fun fact – I name my projects like they’re my children (yes, "Vandana" & "Prakriti" are my babies) 🥰<br>💫 Forever learning – Because why settle for one tech stack when you can explore them all? 🔥<br>🏆 Dream goal – Build something that truly makes a difference (and win more hackathons 😉)<br>📬 Let’s connect! If you love tech, chocolates, or random deep convos at 2 AM, we’re already friends! 🌙✨
 
@@ -13,4 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RichaBharti0603&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RichaBharti0603&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <br>
+  <b>Thanks for visiting! Keep building cool stuff 🚀</b>
+</p>
+
