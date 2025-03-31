@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=RichaBharti0603&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I am Richa!🎀 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img src="https://i.pinimg.com/736x/6b/17/30/6b1730f283d50618b9d686356c720782.jpg" width="400px" alt="Coding Meme" />
 
