@@ -46,7 +46,7 @@
 ---
 
 ## 🌟 Featured Projects  
-🚀 **[Vandana](https://github.com/RichaBharti0603/Vandana)** – A holiday-themed **dating & social connection app** 🎄💕  
+🚀 **[Vandana](https://github.com/RichaBharti0603/Vanndana)** – A holiday-themed **dating & social connection app** 🎄💕  
 🛡️ **[Silent Alert System](https://github.com/RichaBharti0603/Silent-Alert)** – Tech for **domestic violence victims** 🚨💜  
 🚂 **[Disaster Management System](https://github.com/RichaBharti0603/DisasterManagement)** – AI-based **collision detection & disaster response system** 🏔️🚨  
 
