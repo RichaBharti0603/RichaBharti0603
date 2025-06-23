@@ -68,6 +68,6 @@
 📩 **Email:** [richab820@gmail.com](mailto:richab820@gmail.com)  
 🔗 **LinkedIn:** [Richa Bharti](https://www.linkedin.com/in/richa-bharti-508ba0283/)  
 📸 **Instagram:** [@richajha917](https://instagram.com/richajha917)  
-🌐 **Portfolio (Coming Soon!)**  
+🌐 **Portfolio :** [richa-s-portfolio.vercel.app]  
 
 💖 _Thanks for stopping by! Keep innovating and creating magic with code! 🚀✨_  
